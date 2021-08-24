@@ -1,0 +1,1 @@
+**与逻辑回归相同 LogisticRegression 支持多项回归**
